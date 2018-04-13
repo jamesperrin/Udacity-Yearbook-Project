@@ -1,6 +1,5 @@
 .challenge-title {
      font-size: 1.2rem;
-     font-weight: bold;
 }
 
 .challenge-disc {
@@ -10,4 +9,8 @@
 .caption {
      text-align: center;
      color: black;
+}
+
+.col {
+     margin-bottom: 65px;
 }
