@@ -496,11 +496,15 @@ pre {
 }
 
 .card .footer .social-links {
-    font-size: 18px;
+    font-size: 1.75em;
 }
 
 .card .footer .social-links a {
     margin: 0 7px;
+}
+
+.card .footer .social-links a:hover {
+  text-decoration: none;
 }
 
 .card .footer .btn-simple {
